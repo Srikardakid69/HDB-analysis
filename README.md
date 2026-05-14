@@ -1,4 +1,5 @@
 # PDS CA1 – Analysis of Dwelling Types in Singapore
+## Click the ipynb file to view the full output including the python code
 
 ## Overview
 This project explores the various factors that affect dwelling types in Singapore using multiple public datasets from data.gov.sg. The analysis focuses on how dwelling type changes over time and how it is influenced by factors such as age, gender, household size, and planning area.
